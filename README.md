@@ -57,7 +57,7 @@ $ pip3 install wikipedia
 
 $ apt install git 
 
-$ git clone https://github.com/nimaline223344/python_client/pull/1
+$ git clone https://github.com/nimaline223344/nimalinehak.git
 
 $ cd Aditmadzs2 
 
